@@ -1,2 +1,2 @@
-# 2026-MTConnect-Bootcamp
-2026 MTConnect Education Bootcamp
+# 2025-MTConnect-Bootcamp
+2025 MTConnect Education Bootcamp
