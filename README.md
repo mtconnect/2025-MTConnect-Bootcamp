@@ -154,6 +154,7 @@ Refer to the LICENSE file in this repository for usage terms.
 
 * MTConnect GitHub: [https://github.com/mtconnect](https://github.com/mtconnect)
 * MTConnect Slack: [https://mtconnect.slack.com](https://mtconnect.slack.com)
+* MTConnect Bootcamp Videos (YouTube Playlist): [https://www.youtube.com/watch?v=0xd41Gcbt-4&list=PLG3B2IlJaMZQ-rkSPh5hK_WxREwFjR-5w](https://www.youtube.com/watch?v=0xd41Gcbt-4&list=PLG3B2IlJaMZQ-rkSPh5hK_WxREwFjR-5w)
 
 ---
 
