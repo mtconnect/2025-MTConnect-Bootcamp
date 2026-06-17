@@ -35,12 +35,33 @@ By the end of this session, participants should be able to:
 This folder may include:
 
 * Presentation slides
-* Validation tool examples
-* Test datasets and sample outputs
-* Scripts or utilities for validation
-* Supporting documentation
 
 > Note: Materials are provided by the session presenter and may vary.
+
+---
+
+## Tools
+Here are some tools for validation mentioned throughout the presentation
+
+ - [Notepad++](https://notepad-plus-plus.org/downloads/)
+ - [Visual Studio Code](https://code.visualstudio.com/download)
+   - [XML Language Support](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
+ - [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
+ - [Reference C++ Agent (v2.6+)](https://github.com/mtconnect/cppagent/releases/latest)
+ - [Metalogi MetaAgent](https://www.metalogi.io/products/metaagent)
+ - [TAMS Online Validator](https://validator.tams.ai/)
+
+Here are some open-source projects referenced throughout the presentation:
+ - [Transpiler](https://github.com/mtconnect/MtconnectTranspiler)
+   - [C#](https://github.com/mtconnect/MtconnectTranspiler.Sinks.CSharp)
+   - [Python](https://github.com/mtconnect/MtconnectTranspiler.Sinks.Python)
+   - [C++](https://github.com/mtconnect/MtconnectTranspiler.Sinks.CPlusPlus)
+   - [JSON](https://github.com/mtconnect/MtconnectTranspiler.Sinks.JsonSchema)
+ - W3C
+   - [SHACL + SPARQL](https://github.com/mtconnect/MTConnectShacl)
+ - Client Applications
+   - [Ladder99](https://github.com/Ladder99/ladder99)
+   - [TrakHound](https://github.com/TrakHound/TrakHound)
 
 ---
 
